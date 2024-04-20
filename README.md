@@ -12,7 +12,7 @@ To load data, see [load_and_analyze_legislation-fed.ipynb](https://github.com/Re
 
 Notes:
 
-(1) Data Source: [Department of Justice](https://github.com/justicecanada/laws-lois-xm). 
+(1) Data Source: [Department of Justice Github](https://github.com/justicecanada/laws-lois-xml) & [Department of Justice Website](https://laws-lois.justice.gc.ca).
 
 (2) Unofficial Data: The data are unofficial reproductions of materials available on the Department Justice's Consolidated Acts and Regulations of Canada website. Official versions are available [here](https://laws-lois.justice.gc.ca/eng/acts/).
 
